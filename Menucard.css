@@ -1,0 +1,23 @@
+body{
+    background-image: url(food1.avif);
+    background-size: cover;
+
+}
+h1{
+    
+    font-style:initial;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: yellowgreen;
+    
+
+}
+h2{
+background-color: aquamarine;
+
+}
+h3{
+    font-style: oblique;
+    color: red;
+    scrollbar-highlight-color: blue;
+}
+
